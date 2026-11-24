@@ -1,8 +1,10 @@
-# MedPortal — Frontend del TPI (Desarrollo de Software 2026)
+# MedPortal — Sistema de Gestión de Turnos Médicos (Frontend)
 
 Frontend del Sistema de Turnos Médicos (UTN FRT). Aplicación SPA hecha con **React + Vite**,
 **React Router**, **React Hook Form**, **Axios** y **Tailwind CSS**, que consume la API REST
 `Dsw2026Tpi.Api` (ASP.NET Core).
+https://github.com/xaviercaceres-dot/medportal-api
+
 
 ## Requisitos
 
